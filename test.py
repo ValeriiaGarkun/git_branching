@@ -1,1 +1,2 @@
-print("Murzik, Barsik, Pantera")
+lst = ["Murzik", "Barsik", "Pantera"]
+print("Murzik", "Barsik", "Pantera", sep=', ')
