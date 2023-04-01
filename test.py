@@ -1,2 +1,1 @@
-print("hello world")
-print("1 hello world")
+print("Murzik, Barsik, Pantera")
