@@ -1,5 +1,5 @@
 countries = ["Ukraine", "Spain", "Italy"]
-capitals = ["Kyiv", "Madrid", "Rome"]
-print(countries[0] + ": " + capitals[0])
-print(countries[1] + ": " + capitals[1])
-print(countries[2] + ": " + capitals[2])
+capitals = {"Ukraine": "Kyiv", "Spain": "Madrid", "Italy": "Rome"}
+print(countries[0] + ": " + capitals["Ukraine"])
+print(countries[1] + ": " + capitals["Spain"])
+print(countries[2] + ": " + capitals["Italy"])
