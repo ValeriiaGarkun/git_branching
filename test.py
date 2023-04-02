@@ -1,2 +1,2 @@
-lst = ["Murzik", "Barsik", "Pantera"]
-print("Murzik", "Barsik", "Pantera", sep=', ')
+lst1 = [1, 2, "sd", True, None]
+print(lst1[1])
